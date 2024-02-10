@@ -16,7 +16,7 @@ The Bouncing Ball Game is a 2D animation app developed in Android Studio using J
 
 To set up the Bouncing Ball Game on your local machine, follow these steps:
 
-1. **Clone the repository**: Clone the repository to your local machine using the command `git clone <repository-url>`.
+1. **Clone the repository**: Clone the repository to your local machine using the command `git clone https://github.com/muhammadajlal/Bouncing-Ball-Android-Game.git`.
 
 2. **Open the project in Android Studio**: Navigate to the directory where you cloned the repository and open the project in Android Studio.
 
